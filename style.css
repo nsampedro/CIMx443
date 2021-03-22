@@ -1,0 +1,21 @@
+body {
+  background-color: #5cdb95;
+}
+h1 {
+  padding-left: 80px;
+  color: #edf5e1;
+}
+#firstLine {
+  padding-left: 400px;
+}
+#secondLine{
+text-align: right;
+padding-right: 400px;
+}
+#thirdLine{
+   padding-left: 400px;
+}
+#fourthLine{
+  text-align: right;
+padding-right: 450px;
+}
