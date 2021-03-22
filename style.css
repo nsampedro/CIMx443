@@ -6,16 +6,37 @@ h1 {
   color: #edf5e1;
 }
 #firstLine {
+  padding-left: 405px;
+}
+#secondLine {
+  text-align: right;
+  padding-right: 415px;
+}
+#thirdLine {
+  padding-left: 395px;
+}
+#fourthLine {
+  text-align: right;
+  padding-right: 450px;
+}
+#fifthLine {
   padding-left: 400px;
 }
-#secondLine{
-text-align: right;
-padding-right: 400px;
-}
-#thirdLine{
-   padding-left: 400px;
-}
-#fourthLine{
+#sixthLine {
   text-align: right;
-padding-right: 450px;
+  padding-right: 425px;
+}
+#seventhLine {
+  padding-left: 400px;
+}
+#eighthLine {
+  text-align: right;
+  padding-right: 450px;
+}
+#ninthLine {
+  padding-left: 395px;
+}
+#tenthLine {
+  text-align: right;
+  padding-right: 470px;
 }
