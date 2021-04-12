@@ -1,5 +1,11 @@
 * {
   background-color: blanchedalmond;
+  font-family: 'Chivo', sans-serif;
+}
+.intro {
+font-weight: 900;
+margin-left: 5%;
+margin-top: 5%;
 }
 .container {
   display: inline-block;
