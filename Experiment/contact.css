@@ -2,7 +2,19 @@ body {
   background-color: blanchedalmond;
   font-family: 'Chivo', sans-serif;
 }
-
+.twitter{
+  text-align: center;
+  font-size: large;
+}
+.email{
+  text-align: center;
+  font-size: large;
+  font-weight:600;
+}
+a:link{
+  text-decoration: none;
+  color:#6F5B3E;
+}
 .overlay {
   height: 0%;
   width: 100%;
@@ -44,4 +56,3 @@ body {
   top: 20px;
   right: 45px;
   font-size: 60px;
-}

@@ -15,6 +15,14 @@ img {
   margin-top: 5%;
   column-gap: 10px;
 }
+.grid_container_leed{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  margin-right: 15%;
+  margin-top: 5%;
+  column-gap: 10px;
+}
 
 .overlay {
   height: 0%;
