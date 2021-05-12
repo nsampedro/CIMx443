@@ -2,18 +2,27 @@ body {
   background-color: blanchedalmond;
   font-family: 'Chivo', sans-serif;
 }
-.twitter{
+.twitter {
   text-align: center;
   font-size: large;
 }
-.email{
+.email {
   text-align: center;
   font-size: large;
-  font-weight:600;
+  font-weight: 600;
 }
-a:link{
+.contact_icon_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  margin-left: 38%;
+  margin-right: 50%;
+  column-gap: 50px;
+}
+
+a:link {
   text-decoration: none;
-  color:#6F5B3E;
+  color: #6f5b3e;
 }
 .overlay {
   height: 0%;
@@ -56,3 +65,4 @@ a:link{
   top: 20px;
   right: 45px;
   font-size: 60px;
+}
