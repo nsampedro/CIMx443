@@ -7,6 +7,13 @@ img {
   height: auto;
   margin-left: 35%;
 }
+a:link {
+  text-decoration: none;
+  color: #6f5b3e;
+}
+a:visited {
+  color: brown;
+}
 .grid_container_miami_lighthouse {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -15,7 +22,7 @@ img {
   margin-top: 5%;
   column-gap: 10px;
 }
-.grid_container_leed{
+.grid_container_leed {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;

@@ -21,7 +21,7 @@ body {
 }
 
 a:link {
-  text-decoration: none;
+  text-decoration: underline;
   color: #6f5b3e;
 }
 .overlay {
